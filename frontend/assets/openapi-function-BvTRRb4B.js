@@ -1,0 +1,1 @@
+import{n as e,t}from"./createServerFn-CbGw79Jj.js";var n=t({method:`GET`}).handler(e(`dd64d2d852a2daab08849c22051d038de26921a7fd8722e89dc89060a408d192`));export{n as t};

@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /app
+Disallow: /auth/
+Disallow: /buy
+Disallow: /dashboard/
+Disallow: /identity/
+
+Host: 11voiceox.in
+Sitemap: https://11voiceox.in/sitemap.xml

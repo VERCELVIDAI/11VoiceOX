@@ -1,0 +1,14 @@
+{
+  "name": "11VoiceOX.in",
+  "short_name": "11VoiceOX.in",
+  "description": "Open-source voice cloning, dubbing, transcription, and text-to-speech for Windows, macOS, and Linux. Run 14 speech engines locally in 646 languages.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08070f",
+  "theme_color": "#08070f",
+  "categories": ["audio", "productivity", "utilities"],
+  "icons": [
+    { "src": "/logo.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/logo-email.png", "sizes": "128x128", "type": "image/png" }
+  ]
+}

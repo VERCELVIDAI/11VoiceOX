@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-hePW80VL.js";import{t}from"./jsx-runtime-NZYk81nU.js";import{t as n}from"./WorkflowPage-CnbSgPsW.js";var r=e(t(),1);function i(){return(0,r.jsx)(n,{slug:`video-dubbing`})}var a=i;export{a as component};

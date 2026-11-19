@@ -1,0 +1,14 @@
+{
+  "name": "11voiceox-website",
+  "version": "1.0.0",
+  "description": "11VoiceOX.in — AI Voice Cloning, Design & Video Dubbing Studio official website frontend",
+  "scripts": {
+    "dev": "python serve.py",
+    "serve": "python serve.py",
+    "preview": "python serve.py",
+    "start": "python serve.py"
+  },
+  "keywords": ["ai", "voice-cloning", "speech-synthesis", "dubbing", "11voiceox"],
+  "author": "11VoiceOX Team",
+  "license": "MIT"
+}
